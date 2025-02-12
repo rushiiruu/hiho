@@ -1,0 +1,92 @@
+h1 {
+    text-align: center;
+    color: #BF0645;
+    margin-top: 5%;
+}
+
+h2 {
+    text-align: center;
+    color: #de618b;
+    
+}
+
+h3 {
+    text-align: center;
+    color: #f497ad;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    margin-top: 20px;
+  }
+
+  .button-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .yes-button {
+    background-color: #D05D66;
+    color: white;
+  }
+
+  .yes-button:hover {
+    background-color: #c95861;
+    color: white;
+  }
+
+  .no-button {
+    background-color: #E0848C;
+    color: white;
+  }
+
+  .no-button:hover {
+    background-color: #c6797f;
+    color: white;
+  }
+
+  .yes-button2 {
+    padding: 16px 34px; 
+    font-size: 40px; 
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #d05d66;
+    color: white;
+    transform: scale(1.1); 
+  }
+
+  yes-button2:hover {
+    background-color: #c95861;
+    color: white;
+  }
+
+  .yes-button3 {
+    padding: 25px 40px; 
+    font-size: 120px; 
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #d05d66;
+    color: white;
+    transform: scale(1.1); 
+  }
+
+  yes-button3:hover {
+    background-color: #c95861;
+    color: white;
+  }
+
+
